@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="games.game2048.TestMoveValuesInRowOrColumn" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-07-14T21:25:55" hostname="WMCL282" time="0.019">
+  <properties/>
+  <testcase name="testRow" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.004"/>
+  <testcase name="testRowReversed" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.002"/>
+  <testcase name="testColumn" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.006"/>
+  <testcase name="testNoMove" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.003"/>
+  <testcase name="testColumnReversed" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
